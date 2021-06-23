@@ -1,7 +1,7 @@
 # pub-api-request-v1
-### pub-api-request-v1
+### project structure
 
-    oop_game_v2                  # root folder
+    pub-api-request-v1           # root folder
         ├── css                  # contains css files including styles.css
         ├── js                   # folder constaining script.js
         ├── index.html           # html doc that renders in the browser
